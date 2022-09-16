@@ -20,7 +20,7 @@ function draw() {
   borderCheck();
   
 
-  
+  //din far
 
   image(img,x,y,d,d);
   x+=a;
