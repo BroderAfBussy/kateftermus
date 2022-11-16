@@ -21,7 +21,7 @@ function setup() {
   y2=0; //katten starter altid i øverste højre hjørne
   textSize(50)
 }
-
+//dasddsad
 musikspillet=false; //variablen bestemmer
 
 function draw() {
